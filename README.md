@@ -10,8 +10,7 @@ Welcome to my repository for tracking my coursework for the Operating System Fun
 
 Below are the projects assigned during the course, each with the WakaTime badge indicating the time spent working on them.
 
-### Project 1 - Boot-up mechanism
-[![wakatime](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948/project/cac648a1-6f40-4ba3-9019-747dd8664fb9.svg)](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948/project/cac648a1-6f40-4ba3-9019-747dd8664fb9)
+### Project 1 - Boot-up mechanism [![wakatime](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948/project/cac648a1-6f40-4ba3-9019-747dd8664fb9.svg)](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948/project/cac648a1-6f40-4ba3-9019-747dd8664fb9)
 
 - **Start Date:** 13.01.21
 - **Due Date:** 01.02.21
