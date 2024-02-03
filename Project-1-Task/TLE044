@@ -1,0 +1,23 @@
+DOCKER_BUILDKIT=1 docker build --output build .
+
+qemu-system-i386 -m 256M -drive format=raw,file=build/image
+
+SSH -X Tle044@uit.no
+ssh -X tle044@ifilab100.stud.cs.uit.no
+
+
+make 
+boch i terminal
+
+
+gdb –q kernel.o
+target remote :1234
+continue
+
+info all-registers
+ctrl + c | continue
+
+
+
+fdisk -l
+dd if=build/image of=[fdisk -l] bs=512 oflag=direct

@@ -1,0 +1,14 @@
+# Authors: Fredrik Mørstad & Fredrik Fasteraune
+
+version: "3.5"
+services:
+  demo:
+    platform: linux/amd64
+    container_name: assignment-3
+    build:
+      context: ../
+      dockerfile: .docker/Dockerfile
+    cap_add:
+      - SYS_PTRACE
+    volumes:
+      - ../:/src

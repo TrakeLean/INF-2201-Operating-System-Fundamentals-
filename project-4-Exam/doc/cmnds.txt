@@ -1,0 +1,1 @@
+make distclean ; make ; echo "c" | bochs -q
