@@ -20,6 +20,7 @@ Below are the projects assigned during the course, each with the WakaTime badge 
 ### Project 2 - Non-preemptive scheduling
 [![wakatime](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948/project/4f59b48e-b2da-46b9-adc1-85d6414c5557.svg)](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948/project/4f59b48e-b2da-46b9-adc1-85d6414c5557)
 
+(24,63% of the time between the start and date was spent working on this exam)
 - **Start Date:** 03.02.21
 - **Due Date:** 22.02.21
 
@@ -47,8 +48,8 @@ Below are the projects assigned during the course, each with the WakaTime badge 
 
 ### Project 6 - File system
 [![wakatime](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948/project/71ac29cb-a125-4128-9833-322db4dbe906.svg)](https://wakatime.com/badge/user/25484680-9f95-4670-92ea-9abd3854b948/project/71ac29cb-a125-4128-9833-322db4dbe906)
-(22,36% of the time between the start and date was spent working on this exam)
 
+(22,36% of the time between the start and date was spent working on this exam)
 - **Start Date:** 05.05.21
 - **Due Date:** 31.05.21
 
